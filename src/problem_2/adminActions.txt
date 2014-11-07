@@ -1,0 +1,9 @@
+Mon Nov 11 10:25:48 ALMT 2013 admin logged into a system
+Mon Nov 11 10:26:09 ALMT 2013 admin added new textbook: pl
+Mon Nov 11 10:26:50 ALMT 2013 admin added new instructor: asan joldasov
+Mon Nov 11 10:27:35 ALMT 2013 admin added new Course: pl
+Mon Nov 11 10:29:05 ALMT 2013 admin added new user: bobur 111
+
+Mon Nov 11 10:29:24 ALMT 2013 admin logged out a system
+Mon Nov 25 10:35:57 ALMT 2013 admin logged into a system
+Mon Nov 25 10:36:01 ALMT 2013 admin logged out a system
